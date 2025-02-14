@@ -1,3 +1,7 @@
+#takes vague csv export from cardbinder apps and adds more details. 
+#Name of file it is referencing is Card_Binder_export.csv
+#intened to get data ready for AI proccessing
+
 import csv
 import requests
 import time
